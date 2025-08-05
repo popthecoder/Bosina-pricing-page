@@ -409,7 +409,7 @@ th {
 }
 
 .footer-col ul li a:hover {
-  color: #fff;
+  color: #4c4d5f;
 }
 
 .footer-bottom {
@@ -541,6 +541,7 @@ th {
   .hamburger {
     display: block;
     color: #00b289;
+      margin-left: auto; /* change made on the 6th of aug */
   }
 
   .nav-links,
